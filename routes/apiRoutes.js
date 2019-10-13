@@ -126,6 +126,7 @@ module.exports = function (app) {
         req.session.userId = userData.userID;
         req.session.userName = userData.userName;
         req.session.userRole = userData.userRole;
+        req.session.save();
         let user = {
           userName: req.session.userName,
           userId: req.session.userId

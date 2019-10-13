@@ -1,0 +1,1243 @@
+[33mcommit 9bb4fc624a88bb7f403cd835abcb7b8ec9a763d6[m[33m ([m[1;36mHEAD -> [m[1;32mtierra[m[33m, [m[1;31morigin/ryan[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 6ce430c 423ad73
+Author: Tierra <41303966+meisly@users.noreply.github.com>
+Date:   Sat Oct 12 11:58:29 2019 -0500
+
+    Merge pull request #46 from The-Ryan-Mobley/ryan
+    
+    Ryan
+
+[33mcommit 423ad737cf43e5ea01e78e1e1840064faecaab74[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Sat Oct 12 11:57:20 2019 -0500
+
+    new fix
+
+[33mcommit 44d97fd1be44fd3d23625e15ef8d02bc77a970de[m
+Merge: cf73e56 6ce430c
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Sat Oct 12 11:55:51 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2 into ryan
+
+[33mcommit cf73e564cd995040c11cf5e0fb82c75c0843662a[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Sat Oct 12 10:08:12 2019 -0500
+
+    fixed sessions
+
+[33mcommit 6ce430ccf5b204155a81fae69f2b4e8baa422120[m
+Merge: c5ebac4 6de4db6
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Sat Oct 12 00:59:24 2019 -0500
+
+    Merge pull request #45 from The-Ryan-Mobley/tierra
+    
+    Tierra
+
+[33mcommit 6de4db67f959280b26e28f6f57e19d946522978e[m[33m ([m[1;31morigin/tierra[m[33m)[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Sat Oct 12 00:21:35 2019 -0500
+
+    fixed welcome message bug on results page
+
+[33mcommit 4bc5dc21eab40b7b0cbaaaf765a555e9a2cffc5d[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Sat Oct 12 00:08:28 2019 -0500
+
+    fixed card width for heroku
+
+[33mcommit 532e4485e1bf2aae0adede3bdd440b69a7588580[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Sat Oct 12 00:04:17 2019 -0500
+
+    changed row width before pushing to heroku
+
+[33mcommit af4059d6473d6383ccef720a8553acf605557c33[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Sat Oct 12 00:00:52 2019 -0500
+
+    fixed another modal issue
+
+[33mcommit e34ffc74459fcf54aea802d093ea3e4b383382f6[m
+Merge: 81c548e c5ebac4
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Fri Oct 11 23:51:43 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2
+
+[33mcommit c5ebac4a35c1ba9a4d94452df0e93fef9c50e623[m
+Merge: 6eb4414 cac80f2
+Author: drewr7 <51679914+drewr7@users.noreply.github.com>
+Date:   Fri Oct 11 21:45:52 2019 -0500
+
+    Merge pull request #44 from The-Ryan-Mobley/ryan
+    
+    worked on mobile responsiveness and login
+
+[33mcommit cac80f27fd010d9a029405822fd83e3c0dc8fe0f[m
+Merge: 05d5360 6eb4414
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Fri Oct 11 21:41:32 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2 into ryan
+
+[33mcommit 05d53600f14dcf6a70bb4c077bd4743b1895cdc8[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Fri Oct 11 21:32:40 2019 -0500
+
+    fixed error where posting review would log user out
+
+[33mcommit 05fb39cd8f55891b422ee1bab5c24196d5f2491e[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Fri Oct 11 21:24:31 2019 -0500
+
+    worked on mobile responsiveness and login
+
+[33mcommit 81c548e0280bf1f187ace805b90c9e508f806875[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Fri Oct 11 20:47:39 2019 -0500
+
+    update db
+
+[33mcommit ba36bb926eb2f2bdc90c60a33f5e65c2eb76a3f6[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Fri Oct 11 20:46:35 2019 -0500
+
+    update db
+
+[33mcommit 6ddd5d8898fa2ddd6206b699ac7826c71c18d4fb[m
+Merge: 102a15d 6eb4414
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Fri Oct 11 20:41:44 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2
+
+[33mcommit 6eb44144f43f2f0f2ca374bdac7c9f45d4d341aa[m
+Merge: 88d12b6 c888682
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Fri Oct 11 20:36:59 2019 -0500
+
+    Merge pull request #43 from The-Ryan-Mobley/tierra
+    
+    Tierra
+
+[33mcommit c88868247dc2074defc3dfe2d98f9eb71839906d[m
+Merge: 75bd5ba 88d12b6
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Fri Oct 11 20:17:46 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2 into tierra
+
+[33mcommit 75bd5ba4c7c87e6f23902987135d73d0b98fed81[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Fri Oct 11 20:17:39 2019 -0500
+
+    review delete button added.  there is a review edit mocked in but I don't think I will have time to finish it
+
+[33mcommit 88d12b65ac01f07dbb5c55ed592d05b0f53fcbf8[m
+Merge: 454144b 4d45f56
+Author: Tierra <41303966+meisly@users.noreply.github.com>
+Date:   Fri Oct 11 20:16:45 2019 -0500
+
+    Merge pull request #42 from The-Ryan-Mobley/ryan
+    
+    fixed logout issue
+
+[33mcommit 4d45f56389c2c610253e23c0cb3f75b72e16da6f[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Fri Oct 11 20:06:06 2019 -0500
+
+    fixed logout issue
+
+[33mcommit 7d0ace97ee9b978d4bf1a67fc0795a8addc04119[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Fri Oct 11 19:35:06 2019 -0500
+
+    fixed bug in user reviews on profile page
+
+[33mcommit 506ffcc3f51c9577e81336b3affb1a6c2502c139[m
+Merge: 8c7b23e 454144b
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Fri Oct 11 19:16:14 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2 into tierra
+
+[33mcommit 454144b70b90c7667df141569a20bb2162a39630[m
+Merge: 1627d7d 51de971
+Author: Tierra <41303966+meisly@users.noreply.github.com>
+Date:   Fri Oct 11 19:16:03 2019 -0500
+
+    Merge pull request #41 from The-Ryan-Mobley/ryan
+    
+    added 404 breakpoints to maintain server stability more fixes to come
+
+[33mcommit 8c7b23ee746133c37cb51d5838105314da3a98b0[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Fri Oct 11 19:15:45 2019 -0500
+
+    started working on delete or edit and updated styles in profile page
+
+[33mcommit 51de971cdaa41596c02c78c172c4f4983abfb7af[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Fri Oct 11 18:56:55 2019 -0500
+
+    fixed issue where you could only review first result
+
+[33mcommit 68e1838e33513adf2f6cf8df266a250bd4338da6[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Fri Oct 11 18:45:19 2019 -0500
+
+    added more warnings and users can no loger append new warning text infinitly
+
+[33mcommit 8c772ff463b1f6f46cb0361fde32a2c149fd37f8[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Fri Oct 11 18:38:02 2019 -0500
+
+    added 404 break and removed old greentext and console logs
+
+[33mcommit 4f5898407dc35c86767f8d35458c6205cfa411ab[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Fri Oct 11 18:35:22 2019 -0500
+
+    found bug where warning wouldnt show up for invalid PW
+
+[33mcommit df70004be66a518e27561476d66674faaadc61c6[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Fri Oct 11 17:50:47 2019 -0500
+
+    added 404 breakpoints to maintain server stability more fixes to come
+
+[33mcommit 833d003926d34e0096554e30ed0aa0be38426964[m
+Merge: b97f6a9 1627d7d
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Fri Oct 11 17:33:29 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2 into tierra
+
+[33mcommit 1627d7d93e0224ddc6d1b7653a801c4495ebb22b[m
+Merge: 425ea60 911e03a
+Author: Tierra <41303966+meisly@users.noreply.github.com>
+Date:   Fri Oct 11 17:33:12 2019 -0500
+
+    Merge pull request #40 from The-Ryan-Mobley/ryan
+    
+    added profile images and the ability to change them
+
+[33mcommit b97f6a940413b56e6ca2be9af15a15341f1bf499[m
+Merge: ccfc811 425ea60
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Fri Oct 11 17:23:56 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2 into tierra
+
+[33mcommit 911e03a50c6c537219d2337826852423c681cfe6[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Fri Oct 11 17:06:16 2019 -0500
+
+    styled a button
+
+[33mcommit 759bb238f1b16e08e3a4059f11b0dfca3003d30a[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Fri Oct 11 17:01:52 2019 -0500
+
+    added profile images and the ability to change them
+
+[33mcommit 425ea60db4e95d7e92696698b22c9271856daa58[m
+Merge: 137ef2e 0446508
+Author: Tierra <41303966+meisly@users.noreply.github.com>
+Date:   Thu Oct 10 21:32:51 2019 -0500
+
+    Merge pull request #39 from The-Ryan-Mobley/DrewBranch
+    
+    Drew branch
+
+[33mcommit 0446508127ed32cf600261aa0f079f3dc8948f6b[m[33m ([m[1;31morigin/DrewBranch[m[33m)[m
+Merge: a0c558a 137ef2e
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Thu Oct 10 21:27:45 2019 -0500
+
+    fix conflicts
+
+[33mcommit ccfc811c5fb17477a49cf927e7724baf710442c6[m
+Merge: 7139ea2 137ef2e
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Thu Oct 10 21:25:54 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2 into tierra
+
+[33mcommit 137ef2e6bd882501e038782de7d8e14c70069b6f[m
+Merge: 5b525f3 a2c9c39
+Author: drewr7 <51679914+drewr7@users.noreply.github.com>
+Date:   Thu Oct 10 21:25:19 2019 -0500
+
+    Merge pull request #38 from The-Ryan-Mobley/tierra
+    
+    Tierra
+
+[33mcommit a0c558a4ff7cdbcb896368581a5f63d3e663da49[m
+Merge: 10dff29 5b525f3
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Thu Oct 10 21:23:18 2019 -0500
+
+    fix conflicts
+
+[33mcommit 7139ea2fc6a223252632155a908c9817a7dd37f6[m
+Merge: a2c9c39 5b525f3
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Thu Oct 10 21:23:06 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2 into tierra
+
+[33mcommit 5b525f355423959563b287387db860dbe8865520[m
+Merge: 53290ac 42dd236
+Author: drewr7 <51679914+drewr7@users.noreply.github.com>
+Date:   Thu Oct 10 21:22:16 2019 -0500
+
+    Merge pull request #37 from The-Ryan-Mobley/ryan
+    
+    Ryan
+
+[33mcommit a2c9c39c59f6ed6c685a1f34fc3b956b6a0c5de3[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Thu Oct 10 21:21:25 2019 -0500
+
+    added review data to profile page. updated css for profile page
+
+[33mcommit 10dff290991d158e4315d1ee81d8d1df2bb7833c[m
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Thu Oct 10 21:20:22 2019 -0500
+
+    fixed sequelize to allow long descriptions
+
+[33mcommit 42dd23649859f2c31b9216105e20d3e4cb9c24e5[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Thu Oct 10 21:15:34 2019 -0500
+
+    mobile login
+
+[33mcommit 82b478a07b621149de57343f9bd92337432a660c[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Thu Oct 10 21:06:36 2019 -0500
+
+    error message on failed
+
+[33mcommit d2a5e643fa8d2179125cc469d10281c8368f7d02[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Thu Oct 10 20:31:57 2019 -0500
+
+    merge error
+
+[33mcommit 53290acfe643a51ba61962077e460abbeb5339b6[m
+Merge: 74ed5f2 afa6db4
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Thu Oct 10 20:31:04 2019 -0500
+
+    Merge pull request #31 from The-Ryan-Mobley/DrewBranch
+    
+    Drew branch
+
+[33mcommit afa6db4fe39a30c579016147cdcc12c67bf373df[m
+Merge: 2aa3025 74ed5f2
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Thu Oct 10 20:28:18 2019 -0500
+
+    merge fix
+
+[33mcommit 2aa30259e4b1d31f8ef2215c9ceb2cba702af09f[m
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Thu Oct 10 20:23:47 2019 -0500
+
+    front end fixes
+
+[33mcommit 14e242b4d612235224b88729c5436b54e95c8ec3[m
+Merge: 632a549 74ed5f2
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Thu Oct 10 20:22:57 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2 into tierra
+
+[33mcommit 632a54927b6b385ce59550db1c04c514ef1ab888[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Thu Oct 10 20:22:50 2019 -0500
+
+    added user profile page and route
+
+[33mcommit 74ed5f2a08d547b97e7f7c91a1a883645985ad48[m
+Merge: a9d3edc 95dd410
+Author: Tierra <41303966+meisly@users.noreply.github.com>
+Date:   Thu Oct 10 20:22:08 2019 -0500
+
+    Merge pull request #30 from The-Ryan-Mobley/ryan
+    
+    fixed review bug
+
+[33mcommit 95dd4103d11b806c9b15e357f724f909d2c4c69c[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Thu Oct 10 20:18:46 2019 -0500
+
+    fixed review bug
+
+[33mcommit 880b4e19ff61e5d1af3e0a20537e1c01f1987c46[m
+Merge: 66e7d2c a9d3edc
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Thu Oct 10 18:41:25 2019 -0500
+
+    merge review html code
+
+[33mcommit a9d3edc5d4eb1231ff6efb79e3edf9cd330cddbf[m
+Merge: bd7bafd 685d606
+Author: Tierra <41303966+meisly@users.noreply.github.com>
+Date:   Thu Oct 10 18:39:10 2019 -0500
+
+    Merge pull request #28 from The-Ryan-Mobley/ryan
+    
+    added reviews posting and average
+
+[33mcommit 685d60631ba35cfc19e851a238f796276e69d437[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Thu Oct 10 18:05:01 2019 -0500
+
+    added logout button next to userName
+
+[33mcommit a29d3b32ab93324617e4feb166e7b01ffb71dddf[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Thu Oct 10 17:58:04 2019 -0500
+
+    added prototype for logout
+
+[33mcommit 2f51efafeaefbec140c0546772bc7393c7996412[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Thu Oct 10 17:43:17 2019 -0500
+
+    added reviews posting and average
+
+[33mcommit 66e7d2c5e4e4a595b17ba415b725642222750253[m
+Merge: 09dbdd8 bd7bafd
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Thu Oct 10 14:34:58 2019 -0500
+
+    working on reviews
+
+[33mcommit 09dbdd8a4c88fb01571130278101809cdc8607a1[m
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Thu Oct 10 14:31:41 2019 -0500
+
+    working on reviews
+
+[33mcommit bd7bafddff175ae913b0da78cc69f708288b1c42[m
+Merge: 50dd5fd bad4d3d
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Thu Oct 10 12:39:05 2019 -0500
+
+    Merge pull request #27 from The-Ryan-Mobley/tierra
+    
+    Tierra
+
+[33mcommit bad4d3df9200e75052fa98eef29c108b83cd2089[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Thu Oct 10 00:42:29 2019 -0500
+
+    put seeds file where it belongs
+
+[33mcommit 102a15dc59a42f5a6558ca5371f9eb5a4b926c5f[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Thu Oct 10 00:30:06 2019 -0500
+
+    updated config
+
+[33mcommit 0dea3bd416258d98898bc193aea967761e05c836[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Thu Oct 10 00:22:08 2019 -0500
+
+    removed redundant config file
+
+[33mcommit d995af536ed1757b6600822342f869100fc7b899[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Thu Oct 10 00:12:41 2019 -0500
+
+    changed seed loc
+
+[33mcommit d2c7a374a6394433f348ae8a8ae16fcdc49d87ed[m
+Merge: 15a3744 50dd5fd
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Thu Oct 10 00:10:42 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2 into tierra
+
+[33mcommit 15a37448de8e6a36316654143104dc92062998a7[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Thu Oct 10 00:09:11 2019 -0500
+
+    fixed query  issue and added seed file for reviews.
+
+[33mcommit 50dd5fd338c7727ff1e90bf9de6d58c6ba149879[m
+Merge: 5fa32f6 7fa8fe7
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Wed Oct 9 23:52:21 2019 -0500
+
+    Merge pull request #26 from The-Ryan-Mobley/tierra
+    
+    Tierra
+
+[33mcommit 7fa8fe76cf13cc7f22fe45f0d65201aad2c190f1[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Wed Oct 9 23:10:26 2019 -0500
+
+    deleted console logs
+
+[33mcommit 4e798e17766ee850994aa3138a09af5dde6f4ceb[m
+Merge: 9cce1ec 5fa32f6
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Wed Oct 9 23:07:16 2019 -0500
+
+    Fixed merge conflicts
+
+[33mcommit 9cce1ecfb1e3a74d701c6698ad6e3fd61bec0946[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Wed Oct 9 23:00:08 2019 -0500
+
+    finished reviews dropdown. deleted redundant reviews page. fixed modal bug
+
+[33mcommit 5fa32f60825ecee14b0f93e6a4d127619ec85330[m
+Merge: 8e9cc93 e263863
+Author: drewr7 <51679914+drewr7@users.noreply.github.com>
+Date:   Wed Oct 9 22:46:43 2019 -0500
+
+    Merge pull request #25 from The-Ryan-Mobley/ryan
+    
+    Ryan
+
+[33mcommit e2638633cd7d8df16ed89ddb29611ebfbcb0f50f[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Wed Oct 9 21:11:53 2019 -0500
+
+    added delete page and api. proper refresh on login
+
+[33mcommit 4e31995af305599dfb7651adf79107eaaca9a202[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Wed Oct 9 18:16:30 2019 -0500
+
+    added pages when admin logs in and lets you add beers to the table
+
+[33mcommit e9438eb7c84d84da13ab081fd964b3e98f44cabf[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Tue Oct 8 22:39:24 2019 -0500
+
+    sessions completely track now
+
+[33mcommit db892891ea8e783badc8140040078ded554a7e36[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Tue Oct 8 22:28:42 2019 -0500
+
+    ?
+
+[33mcommit 8e9cc93f00cf40531bb8df0c381634c4559de750[m
+Merge: 1303e5e 2c15a4a
+Author: Tierra <41303966+meisly@users.noreply.github.com>
+Date:   Tue Oct 8 21:54:18 2019 -0500
+
+    Merge pull request #23 from The-Ryan-Mobley/DrewBranch
+    
+    Drew branch
+
+[33mcommit 2c15a4a32f373517198f13c6329db54ab364364b[m
+Merge: 6cfebf3 1303e5e
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Tue Oct 8 21:51:08 2019 -0500
+
+    merge conflicts
+
+[33mcommit 6cfebf33fecac5f79b66e4f2bfae4b3b0376b706[m
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Tue Oct 8 21:48:22 2019 -0500
+
+    added review modal and js to handle review submission
+
+[33mcommit 1303e5eee8dbc702f2cefb827cc9fef6c43f36d9[m
+Merge: fdbdb42 b3ab7a3
+Author: drewr7 <51679914+drewr7@users.noreply.github.com>
+Date:   Tue Oct 8 21:47:25 2019 -0500
+
+    Merge pull request #22 from The-Ryan-Mobley/tierra
+    
+    Tierra
+
+[33mcommit b3ab7a3f43dbb580477de03f3ce1ad0160043699[m
+Merge: b617554 fdbdb42
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Tue Oct 8 21:44:09 2019 -0500
+
+    fixed merge conflict
+
+[33mcommit b6175547ac299b1fdfebacb3624c5c91e841e158[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Tue Oct 8 21:38:55 2019 -0500
+
+    started working on reviews.  still in progress
+
+[33mcommit fdbdb42eef774a9c34443d0c95198f6850c4dcc4[m
+Merge: b47f60e fa58119
+Author: Tierra <41303966+meisly@users.noreply.github.com>
+Date:   Tue Oct 8 21:38:27 2019 -0500
+
+    Merge pull request #21 from The-Ryan-Mobley/ryan
+    
+    session login works on landing page
+
+[33mcommit fa58119bf299ad5dfc1900ff7d2400f8a66eecad[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Tue Oct 8 21:32:47 2019 -0500
+
+    session login works on landing page
+
+[33mcommit b47f60e689aa2cddc07dcdad09dfd0ed79c0cac3[m
+Merge: abdcd8d f2b8e76
+Author: Tierra <41303966+meisly@users.noreply.github.com>
+Date:   Tue Oct 8 20:35:54 2019 -0500
+
+    Merge pull request #20 from The-Ryan-Mobley/ryan
+    
+    Ryan
+
+[33mcommit f2b8e76c1664b241d6f80a139cf704202f19280f[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Tue Oct 8 20:34:40 2019 -0500
+
+    fixed merge issue
+
+[33mcommit 806bc5d34b3214cc4e255348c320536271b36860[m
+Merge: c0ffe53 abdcd8d
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Tue Oct 8 20:23:33 2019 -0500
+
+    sorted merge conflicts
+
+[33mcommit abdcd8d962b498a13914c14d9503aa8da2f65c3c[m
+Merge: d4e67b3 4d6c004
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Tue Oct 8 20:22:01 2019 -0500
+
+    Merge pull request #19 from The-Ryan-Mobley/tierra
+    
+    checks if user logged in. started reviews dropdown
+
+[33mcommit 4d6c00423e346108d5e3346c433edda3f2b93bda[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Tue Oct 8 20:20:30 2019 -0500
+
+    checks if user logged in. started reviews dropdown
+
+[33mcommit c0ffe53040c422569b666a44c93eee9b40bc7276[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Tue Oct 8 20:14:54 2019 -0500
+
+    login functions
+
+[33mcommit 99e186147a2756a3e90289d4c02b0984b37503b4[m
+Merge: b7d6a76 d4e67b3
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Tue Oct 8 19:40:15 2019 -0500
+
+    fix conflicts
+
+[33mcommit b7d6a7621e7182f417efad7c3521fabda5f11d41[m
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Tue Oct 8 19:39:12 2019 -0500
+
+    fix conflicts
+
+[33mcommit d4e67b334464350454013bf73fc1690a886aa045[m
+Merge: e20c490 0481fc2
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Tue Oct 8 18:44:04 2019 -0500
+
+    Merge pull request #18 from The-Ryan-Mobley/tierra
+    
+    Tierra
+
+[33mcommit 0481fc2e9eaee94fd74f456c2d149545d460650b[m
+Merge: 02c72da e20c490
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Tue Oct 8 18:41:10 2019 -0500
+
+    fixed merge conflicts reacted review.js for review page
+
+[33mcommit 02c72da75c4f4c2dbafe2eff87b2423d5f6d5632[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Tue Oct 8 18:31:56 2019 -0500
+
+    deleted redundant modal
+
+[33mcommit e20c49075b2899287adb761e0ac18677aee0517f[m
+Merge: 9853fc6 d05d564
+Author: Tierra <41303966+meisly@users.noreply.github.com>
+Date:   Tue Oct 8 18:31:31 2019 -0500
+
+    Merge pull request #16 from The-Ryan-Mobley/ryan
+    
+    sign up page now updates user table
+
+[33mcommit d05d564f20b1c8328eeeceedd3b99e8418d23bfd[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Tue Oct 8 18:29:04 2019 -0500
+
+    changes
+
+[33mcommit bd4615e68d6bfbb615f3540279b6c2dce09f4370[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Tue Oct 8 18:17:05 2019 -0500
+
+    merging all versions
+
+[33mcommit c1d4516e8908d367e7cb74572c6fc23a42f8e9d2[m
+Merge: 2528a3b 9853fc6
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Tue Oct 8 18:16:36 2019 -0500
+
+    staging changes to begin workday
+
+[33mcommit 9853fc6fa6bf8e5ad8865bba4bbca579fa5a07bb[m
+Merge: 340c44c 80fdeb5
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Tue Oct 8 18:13:54 2019 -0500
+
+    Merge pull request #17 from The-Ryan-Mobley/tierra
+    
+    Tierra
+
+[33mcommit 80fdeb5ae66735fbf6868b2592f07c49622a338e[m
+Merge: c362f17 340c44c
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Tue Oct 8 17:50:45 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2 into tierra
+
+[33mcommit c362f17c49d9d8bf8f5d1427dc79a4463a84836c[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Tue Oct 8 17:50:11 2019 -0500
+
+    updated search results style and separated out js for main.handlebars into main.js
+
+[33mcommit 2528a3b286b84b237d30750d02841ee5b8f7696e[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Tue Oct 8 15:14:34 2019 -0500
+
+    added login modal on main element
+
+[33mcommit ca73dc6b95df4da09a4591ee8531d228dcefe358[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Tue Oct 8 13:04:26 2019 -0500
+
+    sign up page now updates user table
+
+[33mcommit 340c44cbcc75fb146e1e29c999523593737fbc24[m
+Merge: 19de890 ca831ae
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Tue Oct 8 11:53:11 2019 -0500
+
+    Merge pull request #15 from The-Ryan-Mobley/DrewBranch
+    
+    Drew branch
+
+[33mcommit ca831aed5acc2bcbbc3f5764c7448074bc2e5318[m
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Tue Oct 8 02:14:16 2019 -0500
+
+    small changes to scripts
+
+[33mcommit fa2c3b5a7e79fabc1ce0bb3efdf5ff7f56983dc9[m
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Tue Oct 8 02:07:33 2019 -0500
+
+    fixed merge conflicts
+
+[33mcommit aef15f071dea960b11e2115d658c38c15154b7dd[m
+Merge: dcf1c61 19de890
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Tue Oct 8 01:21:22 2019 -0500
+
+    fix conflicts
+
+[33mcommit 7e950103950f1dec53807c7b450153501a4be0c6[m
+Merge: bfd2d87 19de890
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Mon Oct 7 18:04:24 2019 -0500
+
+    fixed merge conflict
+
+[33mcommit 19de890755de0426ccdd797d78eeac26321a82a4[m
+Merge: f21c512 478d8f9
+Author: Tierra <41303966+meisly@users.noreply.github.com>
+Date:   Mon Oct 7 17:56:43 2019 -0500
+
+    Merge pull request #14 from The-Ryan-Mobley/ryan
+    
+    Ryan
+
+[33mcommit bfd2d87b93683880e3eb1c1161b22baebf7109d7[m
+Merge: a28f1fc f21c512
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Mon Oct 7 17:56:37 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2 into tierra
+
+[33mcommit 478d8f94050713a736b09cee5466482928bb283e[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Mon Oct 7 15:35:59 2019 -0500
+
+    functions for appending reviews on beer page
+
+[33mcommit 447f2773f9acccb0d9fbea72543cded15a1bf370[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Mon Oct 7 12:25:30 2019 -0500
+
+    merge
+
+[33mcommit f2c5d76e51dbce899ee4ffc52619bdb182d637f7[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Sun Oct 6 23:13:57 2019 -0500
+
+    working with new ver
+
+[33mcommit a28f1fc1ed68d233e9265a5a42dddad46938e9e2[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Sun Oct 6 20:52:56 2019 -0500
+
+    added no results message and allow users to search for non autocompleted stuff
+
+[33mcommit f21c5127de2a0db126aabcc7546d967fdee563b5[m
+Merge: b895abc cec8582
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Sun Oct 6 20:36:17 2019 -0500
+
+    Merge pull request #13 from The-Ryan-Mobley/tierra
+    
+    Tierra
+
+[33mcommit cec858265d301942b00c10d8b94b74541a47da19[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Sun Oct 6 20:26:03 2019 -0500
+
+    fixed code issues from last merge. everything works now and is effin beautiful
+
+[33mcommit 36cb8022af1be2cfb754e684e108adb0c99a2714[m
+Merge: 7bdbc70 b895abc
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Sun Oct 6 20:05:48 2019 -0500
+
+    fixed merge conflicts
+
+[33mcommit b895abcda26101347b53440e5652421eac43efbd[m
+Merge: a16d7ef c466158
+Author: Tierra <41303966+meisly@users.noreply.github.com>
+Date:   Sun Oct 6 20:03:02 2019 -0500
+
+    Merge pull request #12 from The-Ryan-Mobley/ryan
+    
+    added a page to display indiviual beers, and an api that lets user su…
+
+[33mcommit 7bdbc7057807b308c74435d3d304df51c8b05b71[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Sun Oct 6 20:00:59 2019 -0500
+
+    added search results page.  wrote search logic. fixed styling issues
+
+[33mcommit c4661589a925885aa23359e008406cef086b7552[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Sun Oct 6 19:42:19 2019 -0500
+
+    Add review and get review apis
+
+[33mcommit c721b1cea67856d59410fe9e1e8accc6e0533897[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Sun Oct 6 19:33:17 2019 -0500
+
+    added a page to display indiviual beers, and an api that lets user submit reviews
+
+[33mcommit 603cb3056db135be9dfe1c0e64e330cc4150361e[m
+Merge: 0c24c69 a16d7ef
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Sun Oct 6 14:35:44 2019 -0500
+
+    fixed merge conflicts
+
+[33mcommit a16d7ef518813e57ba6b038bcf9621fa0c86bceb[m
+Merge: f37cf56 975331a
+Author: Tierra <41303966+meisly@users.noreply.github.com>
+Date:   Sun Oct 6 14:28:28 2019 -0500
+
+    Merge pull request #11 from The-Ryan-Mobley/ryan
+    
+    Ryan
+
+[33mcommit 0c24c69068a50c9e5fe3a8d266b8e8512b1a4441[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Sun Oct 6 14:24:30 2019 -0500
+
+    formatting
+
+[33mcommit 975331acaae5cee4f7f9701a9a1ea99002c91e1a[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Sat Oct 5 18:41:51 2019 -0500
+
+    refactored code to add callbacks to apiRoutes to ensure that handlebars renders get called properly
+
+[33mcommit 40b01f0c5ae0ef404ee4622686ebf26118190ca4[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Sat Oct 5 18:05:06 2019 -0500
+
+    ?
+
+[33mcommit dcf1c613ad0288b4987a0648d336d14ae050dd90[m
+Merge: 2359eb2 f37cf56
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Sat Oct 5 14:01:37 2019 -0500
+
+    fix conflicts
+
+[33mcommit 2359eb2ece1227ad152fcf906105fdcdfb5586e9[m
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Sat Oct 5 13:58:04 2019 -0500
+
+    fix conflicts
+
+[33mcommit 7607fdb53bcb55040cc38542701f40aac4b3878f[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Sat Oct 5 13:27:59 2019 -0500
+
+    please work
+
+[33mcommit f37cf56b9b6af55234e0d9b7b6644990676a4853[m
+Merge: 1f24223 ad59541
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Sat Oct 5 13:26:06 2019 -0500
+
+    Merge pull request #10 from The-Ryan-Mobley/tierra
+    
+    Tierra
+
+[33mcommit ad595418f699c04d1d50e3a2e4e079a71f194263[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Sat Oct 5 13:24:26 2019 -0500
+
+    added seed file for beers
+
+[33mcommit c9c32b562c52245eba3a1b3b99978f5090cec10d[m
+Merge: 8d626bd 1f24223
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Sat Oct 5 13:18:06 2019 -0500
+
+    fixed merge conflicts
+
+[33mcommit 8d626bd7251e9262a96749e996d3b6d876e56f6b[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Sat Oct 5 13:15:01 2019 -0500
+
+    added autocompelete backend
+
+[33mcommit 1f24223bd7ac627444c5f240264f6883fa4dab7a[m
+Merge: 6bac5d3 4150711
+Author: Tierra <41303966+meisly@users.noreply.github.com>
+Date:   Sat Oct 5 13:14:02 2019 -0500
+
+    Merge pull request #9 from The-Ryan-Mobley/ryan
+    
+    lint and travis
+
+[33mcommit 415071177a572c7fac86f3808dccda74ead2aa86[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Sat Oct 5 13:11:23 2019 -0500
+
+    added sessions support
+
+[33mcommit 390c26c0866ca44ff306a373a14f6033140cb307[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Sat Oct 5 11:24:35 2019 -0500
+
+    updated linter rules to es6 and added travis scripts
+
+[33mcommit d2f8ddc286e5acfadf1bc01ef091d966e4e5d078[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Sat Oct 5 10:27:57 2019 -0500
+
+    lint and travis
+
+[33mcommit 6bac5d3ffbcc2aef80a0a077990b1bdf6d905ab0[m
+Merge: 8b6640a f64cdff
+Author: Tierra <41303966+meisly@users.noreply.github.com>
+Date:   Thu Oct 3 21:06:16 2019 -0500
+
+    Merge pull request #8 from The-Ryan-Mobley/ryan
+    
+    Ryan
+
+[33mcommit f64cdff302d9f9e17109c33328fa0647c576af11[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Thu Oct 3 21:02:36 2019 -0500
+
+    added password encryption and adding user to table
+
+[33mcommit 49c4da302f589c2299d8edb5e776f0b51b4261d0[m
+Merge: 0a764eb 8b6640a
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Thu Oct 3 21:01:56 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2 into ryan
+
+[33mcommit 8b6640a61a946ad93356523746388959599cb8ce[m
+Merge: 5261f01 7661cdb
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Thu Oct 3 21:01:26 2019 -0500
+
+    Merge pull request #7 from The-Ryan-Mobley/DrewBranch
+    
+    Drew branch
+
+[33mcommit 0a764eb2461f924a89ed637e0812b26deb78081a[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Thu Oct 3 20:53:51 2019 -0500
+
+    ?
+
+[33mcommit 7661cdb06bfc23144015589e5e6b70cbb5d035be[m
+Merge: 46058d1 5261f01
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Thu Oct 3 20:52:55 2019 -0500
+
+    fix merge conflicts
+
+[33mcommit 46058d1ec42e4cd1a9399f3d70341104a4e504e0[m
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Thu Oct 3 20:48:42 2019 -0500
+
+    added sign up page
+
+[33mcommit 5261f01ac913cebbbeaa6fae4f79ee84cf843c42[m
+Merge: 76b62a3 7591a10
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Thu Oct 3 20:46:21 2019 -0500
+
+    Merge pull request #6 from The-Ryan-Mobley/tierra
+    
+    Tierra
+
+[33mcommit 7591a1068443c97f52e13690f6c10c1cd184d44c[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Thu Oct 3 20:41:49 2019 -0500
+
+    sessions sort of initialized
+
+[33mcommit 46d7d184918d7694421ef9b2997cadccb2137849[m
+Merge: cc51007 76b62a3
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Thu Oct 3 19:38:20 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2 into tierra
+
+[33mcommit cc51007e9ba9f8833bafd5856a201b7deb0c6ba9[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Thu Oct 3 19:38:12 2019 -0500
+
+    i don't remember
+
+[33mcommit 76b62a3437b5ed463ec1923a19cc05affad45600[m
+Merge: 3ec84ea b4021a6
+Author: Tierra <41303966+meisly@users.noreply.github.com>
+Date:   Thu Oct 3 19:37:38 2019 -0500
+
+    Merge pull request #5 from The-Ryan-Mobley/ryan
+    
+    added tables reconfigured config and controller functions
+
+[33mcommit b4021a60fc0a8dfbb0f4d3c5f2256e1fe96fee23[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Thu Oct 3 19:34:58 2019 -0500
+
+    added brewrey
+
+[33mcommit a40033c0ec8fc87ab2a69438b1b535ff197a13ff[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Thu Oct 3 19:26:27 2019 -0500
+
+    merge conflict?
+
+[33mcommit 6326e57a4f7bc9fcf0af5c51eac64427f835a02b[m
+Merge: 6fe6bf6 a66355a
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Thu Oct 3 19:24:58 2019 -0500
+
+    Merge branch 'ryan' of https://github.com/The-Ryan-Mobley/camel-project2 into ryan
+
+[33mcommit 6fe6bf614da3e33806ae6a8f055522961c153f0a[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Thu Oct 3 19:24:10 2019 -0500
+
+    applied code review changes
+
+[33mcommit a66355a16c1992a6ae1d97692b28aa4981cd7bf7[m
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Thu Oct 3 19:20:59 2019 -0500
+
+    Update config.js
+
+[33mcommit eea73ce60b7d9f9c408a5d7ed22234c141e2b5e1[m
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Thu Oct 3 19:19:33 2019 -0500
+
+    Update .gitignore
+
+[33mcommit 73c8e0ca07e940dd9ddd27434120bea40187b8bb[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Thu Oct 3 19:18:14 2019 -0500
+
+    added tables reconfigured config and controller functions
+
+[33mcommit 8d5d83cb7dc718e19621e22c950cf6876397d384[m
+Merge: 664117d 3ec84ea
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Thu Oct 3 18:46:52 2019 -0500
+
+    fix conflicts
+
+[33mcommit 664117d8ea5395b46bb800d0f6f476a4c0c73212[m
+Merge: a6f165e 0d75d15
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Thu Oct 3 18:43:00 2019 -0500
+
+    fix conflicts
+
+[33mcommit 8fcc562bc88479bda77d26b434cfc680d6139bab[m
+Merge: 7fc7120 3ec84ea
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Thu Oct 3 18:39:09 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2 into tierra
+
+[33mcommit 7fc7120fd4c8f31f58f271af383f80864888ff19[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Thu Oct 3 18:39:01 2019 -0500
+
+    restyled footer to be page width
+
+[33mcommit 3ec84ea72894f32d65ccf4059122a9dee754e985[m
+Merge: 05f2be5 7a377a0
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Thu Oct 3 18:04:44 2019 -0500
+
+    Merge pull request #4 from The-Ryan-Mobley/tierra
+    
+    Tierra
+
+[33mcommit 7a377a0ba9a30014391a4399926959f790d03220[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Thu Oct 3 16:16:02 2019 -0500
+
+    Created initial materialize landing page with autocomplete search bar and mocked in login button.  Previous version was renamed index-bootstrap.handlebars and the associated js file as index-bootstrap.js.
+
+[33mcommit 05f2be5808d105729afc9dc08b8d2a2632968946[m
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Wed Oct 2 18:13:32 2019 -0500
+
+    Update README.md
+
+[33mcommit 9f8cae980270c85c7ee904c740c6c340b4224e91[m
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Tue Oct 1 20:47:13 2019 -0500
+
+    Update README.md
+
+[33mcommit b9fbba723678722e01eb07ac67b9b686abcc080e[m
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Tue Oct 1 20:19:44 2019 -0500
+
+    Create README.md
+
+[33mcommit 96ae84b4329006d2d6fff635ddc071ca7f7d8c54[m
+Merge: 853c75a 0d75d15
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Tue Oct 1 20:13:58 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2 into tierra
+
+[33mcommit 0d75d15f4211498a413c3e8dc97dcec1f7415b13[m
+Merge: ead759c b02c73f
+Author: drewr7 <51679914+drewr7@users.noreply.github.com>
+Date:   Tue Oct 1 19:50:05 2019 -0500
+
+    Merge pull request #3 from The-Ryan-Mobley/ryan
+    
+    test
+
+[33mcommit b02c73fcdd1a6fc1a69443c7362c4b493b9c439f[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Tue Oct 1 19:48:43 2019 -0500
+
+    test
+
+[33mcommit a6f165ea3b7a0a92bc421580d6c3db1b3edcd993[m
+Author: Drew Reynolds <drew@sportscrm.com>
+Date:   Tue Oct 1 19:40:08 2019 -0500
+
+    push to heroku
+
+[33mcommit 853c75ae09ad210ff29c891c356b6c3833b3abc0[m
+Merge: 858351d ead759c
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Tue Oct 1 19:39:34 2019 -0500
+
+    Merge branch 'master' of https://github.com/The-Ryan-Mobley/camel-project2 into tierra
+
+[33mcommit ead759c7f35aac133a96868c2fed941c0c3c6932[m
+Merge: ce7fbbb 12ccdde
+Author: drewr7 <51679914+drewr7@users.noreply.github.com>
+Date:   Tue Oct 1 19:36:49 2019 -0500
+
+    Merge pull request #2 from The-Ryan-Mobley/ryan
+    
+    Ryan
+
+[33mcommit 858351da588a89ef119c200262e35060fcca00db[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Tue Oct 1 19:32:54 2019 -0500
+
+    updated package.json
+
+[33mcommit 12ccddef67ccd7630ca5282cef0536d1cf5f226c[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Tue Oct 1 19:32:04 2019 -0500
+
+    why would that masster
+
+[33mcommit b65aba12b08b3987ee6f65bbb1e2bd7c3acf6d19[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Tue Oct 1 19:31:23 2019 -0500
+
+    updated package.json
+
+[33mcommit 9eaeda1f5302a1526c53c3ea86ea19022dc58a42[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Tue Oct 1 19:27:43 2019 -0500
+
+    pack loc
+
+[33mcommit ce7fbbb1f99465298509f64a70974d7ebf994c66[m
+Merge: 4345a8b ab2412f
+Author: The-Ryan-Mobley <49420591+The-Ryan-Mobley@users.noreply.github.com>
+Date:   Tue Oct 1 19:13:15 2019 -0500
+
+    Merge pull request #1 from The-Ryan-Mobley/tierra
+    
+    starter code
+
+[33mcommit ab2412fb891dcf5a7f8f90bb44248a34c436f9ee[m
+Author: Tierra <sr.undershaft@gmail.com>
+Date:   Tue Oct 1 19:11:36 2019 -0500
+
+    starter code
+
+[33mcommit 4345a8b0233922b6cd21c50e18b60a4efacb0167[m
+Author: Ryan Mobley <ryan.mobley94@gmail.com>
+Date:   Tue Oct 1 18:58:55 2019 -0500
+
+    hello

@@ -48,7 +48,7 @@ $(document).ready(function() {
     }).then(result => {
       $.post("/api/review", reviewInfo, () => {
         $(".modal").modal("close");
-        window.location.href = "/";
+        window.location.href = window.location.href;
       });
     });
   });
