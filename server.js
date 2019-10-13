@@ -15,7 +15,7 @@ app.use(express.json());
 app.use(express.static("public"));
 app.set("trust proxy");
 app.use(
-  session({ secret: "keyboard cat", proxy: true, cookie: { maxAge: 60000 } })
+  session({ secret: "keyboard cat", proxy: true, cookie: { maxAge: 3600000 } })
 );
 
 // Handlebars
